@@ -19,5 +19,3 @@ SVD decomposes the original matrix A into three matrices that capture its struct
 
 This decomposition enables various applications, such as dimensionality reduction, image compression, and data imputation.
 
-## Decompression site using streamlit 
-![Screen Recording 2024-08-06 161015 gif](https://github.com/user-attachments/assets/a4e92427-643f-4853-b030-c1ecd83ad520)
